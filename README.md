@@ -14,8 +14,7 @@
 ---
 
 ## 🌐 Tautan Penting
-* **Live Demo Web (HTTPS):** [https://beemate.web.id/floodguard/](https://beemate.web.id/floodguard/)
-* **Alternatif Server IP:** [http://43.134.118.130/floodguard/](http://43.134.118.130/floodguard/)
+* **Live Demo Web:** [http://43.134.118.130/floodguard/](http://43.134.118.130/floodguard/)
 * **Laporan Proyek 16 Bab (Google Docs):** [Dokumen Laporan Akhir PKM-KC](https://docs.google.com/document/d/1VtCjWk9uuVKDkRMmcYeflXQ2wGN8nsKlRHlkFtXMsSI/edit)
 * **Slide Presentasi (Google Slides):** [Slide Presentasi 12 Slide 16:9](https://docs.google.com/presentation/d/1BFodItXBIQyANYn1konhlrGSVNH9ot6uRuYDX8qNaas/edit)
 
