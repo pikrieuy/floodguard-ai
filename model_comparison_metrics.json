@@ -1,0 +1,85 @@
+{
+  "models": {
+    "Logistic Regression": {
+      "test_accuracy": 0.97,
+      "cv_accuracy_mean": 0.9633333333333333,
+      "cv_accuracy_std": 0.005577733510227167,
+      "precision_macro": 0.9629957391019337,
+      "recall_macro": 0.9310166144405274,
+      "f1_macro": 0.9461752386957305,
+      "confusion_matrix": [
+        [
+          221,
+          1,
+          0
+        ],
+        [
+          5,
+          41,
+          0
+        ],
+        [
+          0,
+          3,
+          29
+        ]
+      ]
+    },
+    "Single Decision Tree": {
+      "test_accuracy": 0.9566666666666667,
+      "cv_accuracy_mean": 0.946,
+      "cv_accuracy_std": 0.0071180521680208825,
+      "precision_macro": 0.9310424406169088,
+      "recall_macro": 0.9014354027940984,
+      "f1_macro": 0.9148516995020567,
+      "confusion_matrix": [
+        [
+          220,
+          2,
+          0
+        ],
+        [
+          5,
+          40,
+          1
+        ],
+        [
+          0,
+          5,
+          27
+        ]
+      ]
+    },
+    "Random Forest (Proposed)": {
+      "test_accuracy": 0.9666666666666667,
+      "cv_accuracy_mean": 0.9573333333333334,
+      "cv_accuracy_std": 0.005734883511361757,
+      "precision_macro": 0.9563934846735923,
+      "recall_macro": 0.9205999477738608,
+      "f1_macro": 0.937081608005521,
+      "confusion_matrix": [
+        [
+          221,
+          1,
+          0
+        ],
+        [
+          5,
+          41,
+          0
+        ],
+        [
+          0,
+          4,
+          28
+        ]
+      ],
+      "feature_importance": {
+        "katulampa_lag6": 0.4590530824509005,
+        "depok_lag3": 0.42257871523590046,
+        "curah_hujan_jkt": 0.09919670782805992,
+        "durasi_hujan": 0.019171494485139107
+      }
+    }
+  }
+}
